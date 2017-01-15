@@ -11,6 +11,8 @@ http://www.archim.org.uk/eureka/53/gess.html
 
 
 
+NOTE : Project on standby as I'm currently working on a deep neural network editor project for university. Will probably pursue this summer.
+
 
 
 0.4.5) I decided to pursue the naive approach to this AI for fun. I added a random move function at the end, corrected all the necessary validity tests for moves, divided them into groups of respective health to optimize treatment and overall effectiveness. I kept watching this 0.4.3 compete against itself, giving the AIs debug lines to "explain how they think" and thus understand them better.
@@ -49,7 +51,7 @@ O.4.2) Most of the code has been cleaned from clutter
 
 NB : for human play, change the arguments in Main to read Player.HU
 NB : It seems my code has taught me a use for macros. In such a sequential computation, it can be interesting to modify which lines are read without removing the rest of the function, and thus run only some of the checks. Macros could allow for a more fluid manipulation of heuristics than retyping. Verify.
-NB : B seems to lose a lot against W. Maybe the AI is just better at reacting than planning (which would make a lot of sense considering my code and the NP clusterfuck that is this game).
+NB : B seems to lose a lot against W. Maybe the AI is just better at reacting than planning (which would make a lot of sense considering my code and the NP carnival that is this game).
 
 
 
