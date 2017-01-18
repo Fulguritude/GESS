@@ -11,7 +11,7 @@ http://www.archim.org.uk/eureka/53/gess.html
 
 
 
-NOTE : Project on standby as I'm currently working on a deep neural network editor project for university. Will probably pursue this summer.
+NOTE : Project on standby as I'm currently working on a deep neural network editor project for university. Will probably pursue the project later this semester for my AI class or this summer.
 
 
 
